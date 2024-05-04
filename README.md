@@ -7,6 +7,6 @@
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.net.tr/test.jpg)
+![Uygulama Ekran Görüntüsü](https://certificate-stream.muhammedarslan.com.tr/test.jpg)
 
   
